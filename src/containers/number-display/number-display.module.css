@@ -1,0 +1,12 @@
+.demo {
+    font-weight: bold;
+    font-family: Consolas, Comics sans MS;
+}
+
+.positif {
+    color: crimson;
+}
+
+.negatif {
+    color: aqua;
+}
