@@ -1,4 +1,5 @@
 import './App.css'
+import BtnText from './containers/btn-text/btn-text.jsx';
 import IntroReact from './containers/intro-react/intro-react.jsx';
 import NumberDisplay from './containers/number-display/number-display.jsx';
 import PlantDisplay from './containers/plant-display/plant-display.jsx';
@@ -15,13 +16,18 @@ function App() {
 
       <h2>Part 02</h2>
       <NumberDisplay value={13} />
-      {/* <hr />
+      {/*
+      <hr />
       <NumberDisplay value={42} />
       <hr />
-      <NumberDisplay value={-5} /> */}
+      <NumberDisplay value={-5} />
+      */}
 
       <h2>Part 03</h2>
       <PlantDisplay />
+
+      <h2>Part 04</h2>
+      <BtnText />
     </div>
   )
 }
