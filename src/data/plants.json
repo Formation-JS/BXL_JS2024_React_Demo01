@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "name": "Rose",
+        "description": "Fleur souvent associée à l'amour",
+        "colors": ["Rouge", "Blanc", "Rose", "Jaune"],
+        "toxicity": false,
+        "edible": true
+    },
+    {
+        "id": 2,
+        "name": "Lys",
+        "description": "Fleur élégante utilisée dans les bouquets",
+        "colors": ["Blanc", "Orange", "Jaune"],
+        "toxicity": true,
+        "edible": false
+    },
+    {
+        "id": 3,
+        "name": "Menthe",
+        "description": "Plante aromatique utilisée en cuisine",
+        "colors": ["Vert"],
+        "toxicity": false,
+        "edible": true
+    },
+    {
+        "id": 4,
+        "name": "Orchidée",
+        "colors": ["Blanc", "Violet", "Rose"],
+        "toxicity": false,
+        "edible": false
+    },
+    {
+        "id": 5,
+        "name": "Aloe Vera",
+        "description": "Plante aux propriétés médicinales",
+        "colors": ["Vert"],
+        "toxicity": false,
+        "edible": true
+    },
+    {
+        "id": 6,
+        "name": "Lavande",
+        "description": "Plante aromatique à fleurs mauves",
+        "colors": ["Violet"],
+        "toxicity": false,
+        "edible": true
+    },
+    {
+        "id": 7,
+        "name": "Digitale",
+        "description": "Plante utilisée à des fins médicinales, mais toxique",
+        "colors": ["Rose", "Violet", "Blanc"],
+        "toxicity": true,
+        "edible": false
+    },
+    {
+        "id": 8,
+        "name": "Basilic",
+        "description": "Plante aromatique utilisée dans la cuisine méditerranéenne",
+        "colors": ["Vert"],
+        "toxicity": false,
+        "edible": true
+    },
+    {
+        "id": 9,
+        "name": "Chrysanthème",
+        "description": "Fleur associée au deuil dans certaines cultures",
+        "colors": ["Jaune", "Blanc", "Rouge"],
+        "toxicity": true,
+        "edible": false
+    },
+    {
+        "id": 10,
+        "name": "Tournesol",
+        "description": "Fleur lumineuse et emblématique",
+        "colors": ["Jaune"],
+        "toxicity": false,
+        "edible": true
+    },
+    {
+        "id": 11,
+        "name": "Morelle noire",
+        "description": "Plante aux baies toxiques crues mais consommables après cuisson",
+        "colors": ["Vert", "Noir", "Violet"],
+        "toxicity": true,
+        "edible": true
+    },
+    {
+        "id": 12,
+        "name": "Herbe de la pampa",
+        "description": "Plante ornementale avec de longues tiges plumeuses",
+        "colors": ["Blanc", "Beige", "Rose pâle"],
+        "toxicity": false,
+        "edible": false
+    },
+    {
+        "id": 13,
+        "name": "Truffe",
+        "description": "Champignon souterrain",
+        "colors": null,
+        "toxicity": false,
+        "edible": true
+    }
+]
